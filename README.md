@@ -15,7 +15,7 @@
 #STEPS
   #create virtual environment. name = virutal environment name. VENV = Module. create a folder named "name"
   python -m venv name
-  # Activate viertual environment. (name)
+  # Activate virtual environment. (name)
   name\Scripts\activate.bat
   # Install libreries
   pip intall library_name
