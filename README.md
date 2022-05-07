@@ -16,7 +16,8 @@
   #create virtual environment. name = virutal environment name. VENV = Module. create a folder named "name"
   python -m venv name
   # Activate virtual environment. (name)
-  name\Scripts\activate.bat
+  name\Scripts\activate.bat (windows)
+  source venv/bin/activate  (IOS)
   # Install libreries
   pip intall library_name
   # Export packages. give us the packages in the correct form to create a txt file
